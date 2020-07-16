@@ -20,6 +20,7 @@ Abstract/Problem statement:- Doctoring of documents have been quite common these
 
 ![Screenshot](5.png)
 
+#### More code and project related things available in repository.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
