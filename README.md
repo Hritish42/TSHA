@@ -14,13 +14,10 @@ This was my 1st Project. So there can be mistakes and i've also tested this algo
 
 ## Usage
 ![Screenshot](1.png)
-[img]https://i.imgur.com/1ZRJysA.png[/img]
-[Imgur](https://imgur.com/1ZRJysA)
-![imgur](http://imgur.com/1ZRJysA)
-![alt text](http://imgur.com/J9OX4K1)
-![alt text](http://imgur.com/iGuXnEi)
-![alt text](http://imgur.com/D4patPu)
-![alt text](http://imgur.com/GytmBzV)
+![Screenshot](2.png)
+![Screenshot](3.png)
+![Screenshot](4.png)
+![Screenshot](5.png)
 
 
 ## Contributing
