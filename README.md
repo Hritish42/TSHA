@@ -14,7 +14,7 @@ This was my 1st Project. So there can be mistakes and i've also tested this algo
 
 ## Usage
 
-![alt text](http://imgur.com/1ZRJysA)
+![Imgur](http://imgur.com/1ZRJysA)
 ![alt text](http://imgur.com/J9OX4K1)
 ![alt text](http://imgur.com/iGuXnEi)
 ![alt text](http://imgur.com/D4patPu)
