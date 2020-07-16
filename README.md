@@ -8,15 +8,16 @@ Abstract/Problem statement:- Doctoring of documents have been quite common these
 
 ## Instructions
 
-I've Attached a pdf file which contains documentation and the code for the testing and hashing algorithm.
+####I've Attached a pdf file which contains documentation and the code for the testing and hashing algorithm.
 
-This was my 1st Project. So there can be mistakes and i've also tested this algorithm it works like a charm.
+####This was my 1st Project. So there can be mistakes and i've also tested this algorithm it works like a charm.
 
 ## Usage
 ![Screenshot](1.png)
 ![Screenshot](2.png)
 ![Screenshot](3.png)
 ![Screenshot](4.png)
+
 ![Screenshot](5.png)
 
 
