@@ -13,6 +13,7 @@ I've Attached a pdf file which contains documentation and the code for the testi
 This was my 1st Project. So there can be mistakes and i've also tested this algorithm it works like a charm.
 
 ## Usage
+[img]https://i.imgur.com/1ZRJysA.png[/img]
 [Imgur](https://imgur.com/1ZRJysA)
 ![imgur](http://imgur.com/1ZRJysA)
 ![alt text](http://imgur.com/J9OX4K1)
