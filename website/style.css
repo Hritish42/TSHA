@@ -1,0 +1,74 @@
+body{
+    background-image: linear-gradient(rgba(34, 34, 56, 0.4),rgba(29, 29, 53, 0.4)) , url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTXcdXaNfIKsXY9iuwqG9W2gbj4jNj46OTMqwCeaXLJ9293b4p6&usqp=CAU");
+    color: white;
+    font-family: 'Flamenco', cursive;
+}
+
+h1{text-align: center;
+    font-size: 60px;
+}
+.submit{
+    border-radius: 10px;
+}
+.seee{
+    font-size: 25px ;
+}
+h4{
+    size: 30px;
+}
+.seee input[type="submit"]{
+	border: none;
+	outline: none;
+	height: 40px;
+	background: #5393db;
+	color: rgb(7, 7, 7);
+	font-size: 18px;
+	border-radius: 20px;
+	font-family: sans-serif;
+	margin-bottom: 10px;
+}
+.lisa input[type="submit"]{
+	border: none;
+	outline: none;
+	height: 20px;
+	background: #5393db;
+	color: rgb(12, 12, 12);
+	font-size: 18px;
+	border-radius: 20px;
+	font-family: sans-serif;
+	margin-bottom: 10px;
+}
+p{
+    font-size: 22px;
+}
+.inputfile {
+	width: 0.1px;
+	height: 0.1px;
+	opacity: 0;
+	overflow: hidden;
+	position: absolute;
+    z-index: -1;
+    
+    
+}
+.inputfile + label {
+    font-size: 1.25em;
+    font-weight: 700;
+    color: rgb(3, 3, 3);
+    background-color: #5393db;
+    display: inline-block;
+    font-size: 18px;
+	border-radius: 20px;
+	font-family: sans-serif;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    
+}
+
+.inputfile:focus + label,
+.inputfile + label:hover {
+    background-color: #5393db;
+}
+.inputfile + label {
+	cursor: pointer; /* "hand" cursor */
+}
