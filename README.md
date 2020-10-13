@@ -5,6 +5,10 @@
 [![TSHA](https://img.shields.io/static/v1?label=TSHA%20&message=v1.0&color=green")](https://github.com/Hritish42/TSHA)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
+### Link to code
+
+[![Generic badge](https://img.shields.io/badge/Code-TSHA-<COLOR>.svg)](code/T-SHA.py)
+[![Generic badge](https://img.shields.io/badge/Code-Collosion-<COLOR>.svg)](code/CollosionCheck.py)
 
 # 🤔 What is this?
 
@@ -19,6 +23,7 @@
   - ##### Immpossible to Bruteforce
   - ##### Complex algorithm
 
+
 # It uses:
 - Fiestal Ciphers,
 - XOR, 
@@ -27,9 +32,12 @@
 - Circularshifting , 
 - Padding and a-lot of things.
 - 160 Rounds. **(Changeable)**
+
 # One round compromises of ...
-[![ScreenShot1](/images/flow.png)]
+
 >Cryptographic functions designed to keep data secured. It works by transforming the data using a hash function: an algorithm that consists of bitwise operations, modular additions, and compression functions. The hash function then produces a fixed-size string that looks totally different from the original. These algorithms are designed to be one-way functions, meaning that once they’re transformed into their respective hash values, it’s virtually impossible to transform them back into the original data. There are a total of 160 rounds in TSHA. 
+
+[![ScreenShot1](/images/flow.png)]()
 
 >A common application of TSHA is to encrypting passwords, as the server-side only needs to keep track of a specific user’s hash value, rather than the actual password. This is helpful in case an attacker hacks the database, as they will only find the hashed functions and not the actual passwords, so if they were to input the hashed value as a password, the hash function will convert it into another string and subsequently deny access. 
 >An arbitrary constant of any length is given as input. The **MSG** is passed to SHA1 which gives an output of 160 bits or convert it to 160 bits in the hexadecimal form which is then converted to the binary form of 160 bits. 
@@ -38,12 +46,18 @@
 
 >x1 and x2 are passed through and function which gives an output k1. a1 and a2 is passed through and function which gives an output k2. K1 and k2 are appended together. the given output will go through the same procedure 160 times and the final output will become our hash.
 
-[![ScreenShot3](/images/cloud.png)]
-[![ScreenShot2](/images/cloud2.png)]
+# Screenshots
+[![ScreenShot4](images/CheckingCollosion.png)]()
+[![ScreenShot5](images/GeneratingHash.png)]()
+
+
+[![ScreenShot2](/images/cloud.png)]()
+[![ScreenShot3](images/cloud2.png)]()
+
 # Method to verify documents:
   - Upload the file on the cloud
   - Get it signed 
-  - Export documents as Markdown, HTML and PDF
+  - Share the link!
 
 >In the above scenario, A Organization (university) will register with cloud services and upload the original certification of a person. 
 
@@ -62,10 +76,6 @@
  sudo apt-get install python3.6
 ```
 
-# Link to code
-
-[![Generic badge](https://img.shields.io/badge/Code-TSHA-<COLOR>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Code-Collosion-<COLOR>.svg)](https://shields.io/)
 
 ## Contributing
 
